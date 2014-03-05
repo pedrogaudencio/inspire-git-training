@@ -17,10 +17,11 @@
 ## along with INSPIRE-HEP; if not, write to the Free Software Foundation, Inc.,
 ## 59 Temple Place, Suite 330, Boston, MA 02111-1307, USA.
 
-if __name__ == "__main__":
-    print "This is a banana"
-    peel_it()
-
 
 def peel_it():
     print "Peel me!"
+
+
+if __name__ == "__main__":
+    print "This is a banana"
+    peel_it()
