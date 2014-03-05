@@ -19,3 +19,8 @@
 
 if __name__ == "__main__":
     print "This is a banana"
+    peel_it()
+
+
+def peel_it():
+    print "Peel me!"
